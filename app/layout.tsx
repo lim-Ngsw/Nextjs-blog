@@ -34,5 +34,6 @@ const RootLayout = async ({ children }: RootLayoutProps) => {
     </html>
   )
 }
+export const runtime = 'edge';
 
 export default RootLayout
