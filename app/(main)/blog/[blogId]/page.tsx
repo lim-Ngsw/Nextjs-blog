@@ -153,4 +153,5 @@ const BlogDetailPage = async ({ params }: BlogDetailPageProps) => {
   )
 }
 
+export const runtime = 'edge';
 export default BlogDetailPage

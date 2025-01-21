@@ -49,4 +49,5 @@ interface ArchivePageProps {
   )
 }
 
+export const runtime = 'edge';
 export default ArchivePage

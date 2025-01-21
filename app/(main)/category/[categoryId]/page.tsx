@@ -46,5 +46,5 @@ interface CategoryPageProps {
     </Suspense>
   )
 }
-
+export const runtime = 'edge';
 export default CategoryPage

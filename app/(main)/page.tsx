@@ -53,5 +53,5 @@ const HomePage = async () => {
     </Suspense>
   )
 }
-
+export const runtime = 'edge';
 export default HomePage
