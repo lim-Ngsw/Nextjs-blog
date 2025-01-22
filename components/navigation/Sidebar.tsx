@@ -88,8 +88,8 @@ const Sidebar = () => {
         <div className="font-bold text-xl">りむ</div>
 
         <div className="text-sm">
-          電子の海を泳ぐ何者でもないもの。学習した内容とか趣味について
-          書いていきます。
+        電子の海を泳ぐ何者でもないもの。学習した内容とか趣味について
+        書いていきます。
         </div>
       </div>
 
