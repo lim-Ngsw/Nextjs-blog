@@ -76,7 +76,7 @@ const Sidebar = () => {
       <div className="border flex flex-col items-center justify-center p-5 space-y-5">
         <Link href="/about">
           <Image
-            src="/default.png"
+            src="/icon.png"
             width={120}
             height={120}
             alt="avatar"
@@ -85,10 +85,11 @@ const Sidebar = () => {
           />
         </Link>
 
-        <div className="font-bold text-xl">Haru</div>
+        <div className="font-bold text-xl">りむ</div>
 
         <div className="text-sm">
-          Next.jsとMicroCMSを使用したブログサイト構築チュートリアルです。技術ブログなど、すぐに運用できるようになっています。
+          電子の海を泳ぐ何者でもないもの。学習した内容とか趣味について
+          書いていきます。
         </div>
       </div>
 
